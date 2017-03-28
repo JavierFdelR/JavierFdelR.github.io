@@ -32,7 +32,7 @@ body{
     margin-top:50px;
     color: black;
     font-size: 25px;
-    font-family: font-family: "Kimberley"; /*"Sarina"*/
+    font-family: "Sarina";
   }
 
     #header #nav ul li{
@@ -62,10 +62,17 @@ body{
   font-size: 14px;
 }
 
-  #main{
+  #intro{
     /*border: 1px solid black;*/
     height: 500px;
     text-align: justify;
+  }
+
+  #vistas{
+    /*border: 1px solid black;*/
+    height: 500px;
+    text-align: justify;
+    font-family: "Kimberley";
   }
 
   #footer{
