@@ -14,72 +14,64 @@ body{
   text-align: center;
 }
 
-  #header #title{
-    margin-top:30px;
-    color: black;
-    font-size: 65px;
-    font-family: "Oswald";
-    font-weight: bold;
-  }
+#header #title{
+  margin-top:30px;
+  color: black;
+  font-size: 80px;
+  font-family: "Oswald";
+  font-weight: bold;
+}
 
-  #header #nav{
-    margin-top:50px;
-    color: black;
-    font-size: 25px;
-    font-family: "Sarina";
-  }
-
+#header #nav{
+  margin-top:50px;
+  color: black;
+  font-size: 25px;
+  font-family: "Sarina";
+}
 
 #wrapper{
   width: 600px;
-  height: auto;
+  height: 400px;
   margin: 0px auto;
-  font-size: 14px;
 }
 
-  #intro{
-    /*border: 1px solid black;*/
-    height: 500px;
-    text-align: justify;
-    font-family: "Crimson Text"
-  }
+#wrapper #into{
+  height: 250px;
+  font-family: "Crimson Text";
+  font-size: 20px;
+  text-align: justify;
+}
 
-  #vistas{
-    /*border: 1px solid black;*/
-    margin-top: 50px;
-    height: 500px;
-    text-align: center;
-    font-family: "Sarina";
-    font-size: 25px;
-  }
-  #wrapper #vistas{
-    margin-top:50px;
-    color: black;
-    font-size: 25px;
-    font-family: "Sarina";
-  }
 
-    #wrapper #vistas ul li{
-      list-style-type: none;
-      /*display: inline;*/
-      padding: 3px 8px 3px 8px;
-    }
+#wrapper #vistas{
+  color: black;
+  font-size: 25px;
+  font-family: "Sarina";
+  text-align: center;
+}
 
-    #wrapper #vistas a{
-      text-decoration: none;
-      color: black;
-    }
+#wrapper #vistas ul li{
+  list-style-type: none;
+  /*display: inline;*/
+  padding: 3px 8px 3px 8px;
+}
 
-    #wrapper #vistas a:hover{
-      color: orange;
-    }
+#wrapper #vistas a{
+  text-decoration: none;
+  color: black;
+}
 
-    #wrapper #vistas a:visited{
-      color: black;
-    }
+#wrapper #vistas a:hover{
+  color: orange;
+}
 
-  #footer{
-    height: 40px;
+#wrapper #vistas a:visited{
+  color: black;
+}
+
+#footer{
     text-align: center;
     border-top: 1px solid black;
+    font-family: "Crimson Text";
+    font-size: 20px;
   }
