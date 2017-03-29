@@ -48,6 +48,7 @@ body{
   font-size: 25px;
   font-family: "Sarina";
   text-align: center;
+  height: 280px;
 }
 
 #wrapper #vistas ul li{
@@ -67,6 +68,10 @@ body{
 
 #wrapper #vistas a:visited{
   color: black;
+}
+
+#wrapper #vistas a:visited:hover{
+  color: orange;
 }
 
 #footer{
