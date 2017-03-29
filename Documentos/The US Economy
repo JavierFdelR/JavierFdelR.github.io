@@ -1,0 +1,37 @@
+- Growth
+	- Index: 	Gross domestic product (GDP)
+	- Definition: 	"Monetary measure of the market value of all final goods and services produced in a period" (Wikepedia)  	
+	- Source:	World Bank
+	- Construction: GDP can be determined in three ways, all of which should, in principle, give the same result.
+			1) The production approach: The most direct approach. It sums the outputs of every class of enterprise to arrive at the total.
+			2) The income approach: It works on the principle that the incomes of the productive factors ("producers," colloquially) must be equal to the 				value of their product, and determines GDP by finding the sum of all producers' incomes.
+			3) The expenditure approach: the value of the total product must be equal to people's total expenditures in buying things.
+	- Do and donts: - Its a good way to make international comparisons of the economy as a whole
+			- Since its not adjusted by cost of living and inflation, it fails to compair living standards.
+	- Code:		To see exactly how the plot was made, please check my python's code.
+	- Why that one: Probably the best way to have a quick idea on how is the economy doing is by using the GDP.
+	- What if:	When it goes up, it means that the economy is producing more good and services and therefore the entire country has more wealth.
+			Still, unusual highs might be reflecting an overheated economy.
+
+- Inflation
+	- Index:	Consumer Price Index (CPI)
+	- Definition:	It measures changes in the price level of market basket of consumer goods and services purchased by households and therefore it is used to 				meassure inflation.
+	- Source: 	OECD
+	- Construction: It is constructed using the prices of a sample of representative items whose prices are collected periodically.
+			- The price data are collected for a sample of goods and services from a sample of sales outlets in a sample of locations for a sample of times. 				- The weighting data are estimates of the shares of the different types of expenditure in the total expenditure covered by the index. These 				weights are usually based upon expenditure data obtained from expenditure surveys for a sample of households or upon estimates of the composition 				of consumption expenditure in the National Income and Product Accounts.
+	- Do and donts:	- GDP price defletor is a better meassure of inflation, but it is harder to get.
+	- Code:		To see exactly how the plot was made, please check my python's code.
+	- Why that one:	Along with the population census, it is one of the most closely watched national economic statistics.
+	- What if:	When it goes up, it reflects a sustained increase in the general price level of goods and services in an economy resulting in a loss of value of 				currency and therefore a reduction in the purchasing power.
+
+- Unemployment
+	- Index:	Unemployment Rate
+	- Definition:	Measure of the prevalence of unemployment.
+	- Source:
+	- Construction: It is calculated by dividing the number of unemployed individuals by all individuals currently in the labor force.
+	- Do and donts:
+	- Code:
+	- Why that one:
+	- What if:
+
+News
