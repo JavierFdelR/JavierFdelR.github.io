@@ -1,0 +1,4 @@
+La data fue sacada de ...
+Para saber elegui esos paises, ver vista "countries"
+En fin, aca escribo lo que quiero
+Clearly the World Bank can't afford to have updated data, but at least it help us to see whats been happening the last years. (Saturday, 15 April 2017)  
