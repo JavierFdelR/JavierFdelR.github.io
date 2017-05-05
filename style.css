@@ -36,7 +36,6 @@ body{
 }
 
 #wrapper #into{
-  height: 250px;
   font-family: "Crimson Text";
   font-size: 20px;
   text-align: justify;
@@ -80,3 +79,11 @@ body{
     font-family: "Crimson Text";
     font-size: 20px;
   }
+
+object{
+  height: 250px;
+  font-family: "Crimson Text";
+  font-size: 20px;
+  text-align: justify;
+}
+

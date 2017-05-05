@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1998/xhtml">
+
+  <head>
+    <title>Instability Monitor</title>
+    <meta name="description" content="Datascience portfolio" />
+    <meta name="keywords" content="portfolio, economics, finance" />
+    <meta name="author" content="Javier FdelR" />
+    <link rel="stylesheet" href="../style.css" type="text/css" />
+    <meta http-equiv="content-type" content="text/html;charset=" />
+    <style>
+      @import url('https://fonts.googleapis.com/css?family=Sarina');
+      @import url('https://fonts.googleapis.com/css?family=Oswald');
+      @import url('https://fonts.googleapis.com/css?family=Crimson+Text');
+      @import url('https://fonts.googleapis.com/css?family=Space+Mono');
+      @import url('https://fonts.googleapis.com/css?family=Dosis');
+    </style>
+  </head>
+
+  <body>
+    <div id="header">
+
+      <div id="title">
+        Instability Monitor
+      </div>
+
+      <div id="nav">
+        <! maybe one day !>
+      </div>
+
+    </div>
+
+    <div id="wrapper">
+
+      <div id="into">
+
+        <p>
+          <?php echo file_get_contents("mpt0.txt"); ?>
+        </p>
+
+        <p> <img src="mpt.png" alt="Countries" width="100%" border="1"></p>
+
+        <p><object  data="mpt1.txt" type="text/plain"
+                    style="overflow: hidden;"
+                    width="100%"
+                    height="auto"
+                    border="1">
+           </object>
+        </p>
+
+      </div>
+
+    </div>
+
+  </body>
+
+</html>

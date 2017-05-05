@@ -1,0 +1,3 @@
+The analisis was ran using Python and following this amazing post written by Dr. Thomas Starke, David Edwards and Dr. Thomas Wiecki (https://plot.ly/ipython-notebooks/markowitz-portfolio-optimization/).
+
+
